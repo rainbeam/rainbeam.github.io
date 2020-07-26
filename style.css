@@ -1,3 +1,11 @@
+body {
+  text-align: center;
+}
+
+head {
+  text-align: center;
+}
+
 h2 {
 font-family: Cinzel;
 font-weight: bold;
@@ -7,7 +15,6 @@ text-align: center;
 
 h6 {
 font-family: Roboto;
-color: gray;
-font-weight: bold;
+color: lightGray;
 text-align: center;
 }
